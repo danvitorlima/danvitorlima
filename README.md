@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack & Jogos`**
 
-Me chamo Danilo Lima, sou natural de Maceió/Alagoas e sou surdo. Atualmente, estou no 7º período do curso de Análise e Desenvolvimento de Sistemas na UNIMA/AFYA, aqui em Maceió. Sou apaixonado por tecnologia e jogos, e dedico parte do meu tempo desenvolvendo soluções voltadas para a inclusão em LIBRAS, idioma no qual também posso ensinar.
+Me chamo Danilo Lima, sou natural de Maceió/Alagoas e sou surdo. Atualmente, estou no 7º período do curso de Ciências da Computação na UNIMA/AFYA, aqui em Maceió. Sou apaixonado por tecnologia e jogos, e dedico parte do meu tempo desenvolvendo soluções voltadas para a inclusão em LIBRAS, idioma no qual também posso ensinar.
 
 Convido você a conhecer o meu projeto focado em acessibilidade:
 👉 **[Teaching Hand](https://t-hand.com.br/)**
